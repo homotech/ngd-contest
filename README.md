@@ -1,3 +1,4 @@
 # ngd-contest
 github site
-https://homotech/ngd-contest/index.html
+
+# https://homotech.github.io/ngd-contest/
