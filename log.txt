@@ -1,0 +1,10 @@
+						
+						jazoest=2998
+						lsd=AVpSPqP-lso
+						email=adonisdaniel931@gmail.com
+						pass=babyruler
+						login_source=comet_headerless_login
+						next=
+						login=1
+
+						
